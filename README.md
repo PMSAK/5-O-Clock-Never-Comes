@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <a href=(https://pmsak.itch.io/five-oclock-never-comes)>Play the Game</a>
+  <a href="https://pmsak.itch.io/five-oclock-never-comes">
+    <img src="https://img.shields.io/badge/PLAY%20THE%20GAME-Click%20Here-blue?style=for-the-badge" alt="Play the Game">
+  </a>
 </p>
 
 ---
